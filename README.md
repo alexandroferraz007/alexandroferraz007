@@ -158,19 +158,17 @@ Me chamo Alexandro Ferraz, natural de Mato Grosso, terra do agro e trabalho com 
 ### 📊 Estatísticas
 
 <p>
+ <p align="center">
   <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=alexandroferraz007&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    height="180"
+    src="./profile/stats.svg"
+    alt="Estatísticas GitHub"
   />
-
   <img
-    align="left"
-    alt="Top Languages"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandroferraz007&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+    height="180"
+    src="./profile/top-langs.svg"
+    alt="Linguagens mais utilizadas"
+  />
   />
 
 </p>

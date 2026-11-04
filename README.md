@@ -19,18 +19,18 @@ Me chamo Alexandro Ferraz, natural de Mato Grosso, terra do agro e trabalho com 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/29071975?tab=repositories&sort=stargazers">
+    <a href="https://github.com/alexandroferraz007?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/29071975?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/alexandroferraz007?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/29071975?tab=followers">
+    <a href="https://github.com/alexandroferraz007?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/29071975?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/alexandroferraz007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -158,19 +158,19 @@ Me chamo Alexandro Ferraz, natural de Mato Grosso, terra do agro e trabalho com 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=29071975&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=alexandroferraz007&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=29071975&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    align="left"
+    alt="Top Languages"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandroferraz007&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
   />
 
 </p>

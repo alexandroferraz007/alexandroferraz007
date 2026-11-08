@@ -158,7 +158,6 @@ Me chamo Alexandro Ferraz, natural de Mato Grosso, terra do agro e trabalho com 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/dolibarr.webp" 
-    
 />
 
 <br/>

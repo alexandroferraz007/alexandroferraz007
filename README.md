@@ -37,7 +37,7 @@ Me chamo Alexandro Ferraz, natural de Mato Grosso, terra do agro e trabalho com 
         <img 
             alt="Meus Atendimentos" 
             title="Meus Atendimentos" 
-            src="https://www.flaticon.com/br/icone-gratis/chatbot_10061872?related_id=10061878&origin=search" />
+            src="https://github.com/alexandroferraz007/alexandroferraz007/blob/main/meus%20atendimentos.png" />
 "
         />
     </a>

@@ -35,9 +35,10 @@ Me chamo Alexandro Ferraz, natural de Mato Grosso, terra do agro e trabalho com 
     </a>
      <a href="https://github.com/alexandroferraz007/alexandroferraz007/issues">
         <img 
-            alt="Meus Chamados" 
-            title="Meus Chamados" 
-            src="https://custom-icon-badges.demolab.com/github/followers/alexandroferraz007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Meus Atendimentos" 
+            title="Meus Atendimentos" 
+            src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d711885f-b269-4150-af00-8d7a8ea0a1e3" />
+"
         />
     </a>
 </p>

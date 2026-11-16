@@ -37,8 +37,7 @@ Me chamo Alexandro Ferraz, natural de Mato Grosso, terra do agro e trabalho com 
         <img 
             alt="Meus Atendimentos" 
             title="Meus Atendimentos" 
-            src="https://github.com/alexandroferraz007/alexandroferraz007/blob/main/chamados.svg" />
-"
+            src="https://github.com/alexandroferraz007/alexandroferraz007/blob/main/chamados.svg" 
         />
     </a>
 </p>

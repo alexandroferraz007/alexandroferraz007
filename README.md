@@ -193,6 +193,7 @@ Me chamo Alexandro Ferraz, natural de Mato Grosso, terra do agro e trabalho com 
 <br/>
 <br/>
 
+CMR:
 ### 📊 Estatísticas
 
 <p>

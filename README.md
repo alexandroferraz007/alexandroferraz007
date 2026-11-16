@@ -33,7 +33,7 @@ Me chamo Alexandro Ferraz, natural de Mato Grosso, terra do agro e trabalho com 
             src="https://custom-icon-badges.demolab.com/github/followers/alexandroferraz007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-     <a href="https://github.com/alexandroferraz007/alexandroferraz007/issues">
+     <a href="https://github.com/alexandroferraz007/alexandroferraz007/issues?q=is%3Aissue+state%3Aclosed#">
         <img 
             alt="Meus Atendimentos" 
             title="Meus Atendimentos" 

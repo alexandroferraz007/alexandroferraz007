@@ -193,7 +193,11 @@ Me chamo Alexandro Ferraz, natural de Mato Grosso, terra do agro e trabalho com 
 <br/>
 <br/>
 
-CMR:
+Projeto No Code: CRM/Funil de Vendas
+Plataforma:Google IA Studio - BD: PostgresSQL/SUPABASE
+Hospegagem: https://vercel.com/
+Link: https://crm-n242.vercel.app/
+
 ### 📊 Estatísticas
 
 <p>

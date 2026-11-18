@@ -32,11 +32,11 @@ Me chamo Alexandro Ferraz, natural de Mato Grosso, terra do agro e trabalho com 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/alexandroferraz007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-    <a href="https://github.com/alexandroferraz007/alexandroferraz007/issues?q=is%3Aissue+is%3Aclosed">
+   <a href="https://github.com/alexandroferraz007/alexandroferraz007/issues?q=is%3Aissue+is%3Aclosed">
   <img
     alt="Chamados fechados"
     title="Total de chamados fechados"
-    src="https://img.shields.io/github/issues-closed/alexandroferraz007/alexandroferraz007?style=for-the-badge&label=CHAMADOS%20FECHADOS&color=55960c&labelColor=488207&logo=livechat&logoColor=white"
+    src="https://img.shields.io/github/issues-closed/alexandroferraz007/alexandroferraz007?style=for-the-badge&label=CHAMADOS%20FECHADOS&color=55960c&labelColor=488207&logo=probot&logoColor=white"
   />
 </a>
 </p>

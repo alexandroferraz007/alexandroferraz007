@@ -19,28 +19,20 @@ Me chamo Alexandro Ferraz, natural de Mato Grosso, terra do agro, e trabalho com
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-     <a href="https://github.com">
+    <a href="https://github.com/29071975?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://shields.io"
+            src="https://custom-icon-badges.demolab.com/github/stars/29071975?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com">
+    <a href="https://github.com/29071975?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://shields.io"
+            src="https://custom-icon-badges.demolab.com/github/followers/29071975?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com">
-        <img 
-            alt="Meus Chamados" 
-            title="Total de chamados fechados" 
-            src="https://shields.io"
-        />
-    </a>
-
 </p>
 
 ---
@@ -78,30 +70,6 @@ Me chamo Alexandro Ferraz, natural de Mato Grosso, terra do agro, e trabalho com
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="FastAPI"
-    title="FastAPI" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://jsdelivr.net" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://jsdelivr.net" 
-/>
-<img 
-    align="left" 
-    alt="Supabase"
-    title="Supabase" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://jsdelivr.net" 
 />
 <img 
     align="left" 
@@ -186,6 +154,7 @@ Me chamo Alexandro Ferraz, natural de Mato Grosso, terra do agro, e trabalho com
 
 <br/>
 <br/>
+</p>
 
 ---
 

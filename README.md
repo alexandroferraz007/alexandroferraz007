@@ -5,39 +5,32 @@
 Me chamo Alexandro Ferraz, natural de Mato Grosso, terra do agro, e trabalho com infraestrutura de TI. Atualmente estou migrando de infraestrutura on-premise para Nuvem com foco em AWS e desenvolvendo projetos práticos em Python, APIs e Automação. Possuo formação superior em Tecnologia de Redes de Computadores.
 
 <p align="left">
-    <a href="https://youtube.com">
+    <a href="https://www.youtube.com/@AJUDAR-TI">
         <img 
-            alt="YouTube Subscribers" 
+            alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://demolab.com"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://youtube.com">
+    <a href="https://www.youtube.com/@AJUDAR-TI">
         <img 
-            alt="YouTube Views" 
-            title="Visualizações no YouTube" 
-            src="https://demolab.com"
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com">
-        <img
-            alt="Total de estrelas"
-            title="Total de estrelas recebidas no GitHub"
-            src="https://shields.io"
+    <a href="https://github.com/29071975?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/29071975?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com">
+    <a href="https://github.com/29071975?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://demolab.com"
-        />
-    </a>
-    <a href="https://github.com">
-        <img
-            alt="Chamados fechados"
-            title="Total de chamados fechados"
-            src="https://shields.io"
+            src="https://custom-icon-badges.demolab.com/github/followers/29071975?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>

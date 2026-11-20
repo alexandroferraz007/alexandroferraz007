@@ -165,7 +165,7 @@ Me chamo Alexandro Ferraz, natural de Mato Grosso, terra do agro, e trabalho com
   * 🔗 [Testar API ao Vivo (/docs)](https://api-controle-financeiro-urhl.onrender.com/) | 💻 [Código Fonte](https://github.com)
 
 * **CRM / Funil de Vendas (No-Code & IA):** Sistema de gestão comercial e acompanhamento de leads.  
-  * **Stack:** Google AI Studio, PostgreSQL (Supabase) | **Hospedagem:** render.com 
+  * **Stack:** Google AI Studio, PostgreSQL (Supabase) | **Hospedagem:** vercel.com
   * 🔗 [Acessar Aplicação](https://crm-n242.vercel.app/)
 
 ---

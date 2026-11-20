@@ -162,7 +162,7 @@ Me chamo Alexandro Ferraz, natural de Mato Grosso, terra do agro, e trabalho com
 
 * **API de Controle Financeiro (Backend):** API REST com autenticação JWT e isolamento de dados por usuário.  
   * **Stack:** Python, FastAPI, PostgreSQL (Supabase) | **Hospedagem:** Render  
-  * 🔗 [Testar API ao Vivo (/docs)](https://onrender.com) | 💻 [Código Fonte](https://github.com)
+  * 🔗 [Testar API ao Vivo (/docs)](https://api-controle-financeiro-urhl.onrender.com/) | 💻 [Código Fonte](https://github.com)
 
 * **CRM / Funil de Vendas (No-Code & IA):** Sistema de gestão comercial e acompanhamento de leads.  
   * **Stack:** Google AI Studio, PostgreSQL (Supabase) | **Hospedagem:** render.com 
